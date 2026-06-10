@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Arfan bin Mohamad Sofian 👋
+
+I'm a 2th-semester Information Technology diploma student at Universiti Kebangsaan Malaysia (FTSM), passionate about software development, game design, and networking. When I'm not coding, I'm usually active in the Intelligence Machine Club exploring AI and robotics, or deploying utility smokes in Valorant.
+
+## 🚀 About Me
+- 🔭 **Currently working on:** - **E-Aduan FTSM:** An application to streamline facility fault reporting and technical support on campus.
+  <- A 3D first-person puzzle game focusing on physics-based interactions and environmental mechanics.>
+- 🌱 **Currently exploring:** Advanced Linux virtualization (Ubuntu/VirtualBox) and deeper networking architectures.
+- 👯 **Looking to collaborate on:** Campus-focused utility apps, open-source Godot projects, campus-focused utility apps
+- 📫 **How to reach me:** arfanmrsm@gmail.com
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:**
+- Python
+- Java
+- GDScript
+- Lua
+- MIPS Assembly
+- C++
+
+**Applications & Engines:**
+- Godot Engine (2D & 3D, physics optimization, signal systems)
+- Eclipse
+- VSC
+
+**Networking & Infrastructure:**
+- Cisco Packet Tracer (VLANs, Routing, IPv6)
+- Linux / Ubuntu / VirtualBox
+
+## 📂 Featured Projects
+* **CampusConnect:** A centralized digital platform concept integrating academic tools and AI assistants for students.
+* **MIPS Calculator:** A low-level simple calculator built using MIPS Assembly language for the QtSpim environment.
+
+---
+⭐️ *Feel free to check out my repositories below!*
 
 <!--
 **arfanmrsm/arfanmrsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
