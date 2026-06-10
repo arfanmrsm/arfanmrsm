@@ -1,13 +1,12 @@
 # Hi there, I'm Muhammad Arfan bin Mohamad Sofian 👋
 
-I'm a 2th-semester Information Technology diploma student at Universiti Kebangsaan Malaysia (FTSM), passionate about software development, game design, and networking. When I'm not coding, I'm usually active in the Intelligence Machine Club exploring AI and robotics, or deploying utility smokes in Valorant.
+I'm a 2nd-semester Software Engineering Degree student at Universiti Kebangsaan Malaysia (FTSM), passionate about software development, game design, and networking. When I'm not coding, I'm usually active in the Intelligence Machine Club exploring AI and robotics, or deploying utility smokes in Valorant.
 
 ## 🚀 About Me
 - 🔭 **Currently working on:** - **E-Aduan FTSM:** An application to streamline facility fault reporting and technical support on campus.
-  <- A 3D first-person puzzle game focusing on physics-based interactions and environmental mechanics.>
 - 🌱 **Currently exploring:** Advanced Linux virtualization (Ubuntu/VirtualBox) and deeper networking architectures.
 - 👯 **Looking to collaborate on:** Campus-focused utility apps, open-source Godot projects, campus-focused utility apps
-- 📫 **How to reach me:** arfanmrsm@gmail.com
+- 📫 **How to reach me:** arfanmrsm@gmail.com arfansofian36@gmail.com
 
 ## 🛠️ Tech Stack & Tools
 
@@ -48,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<- A 3D first-person puzzle game focusing on physics-based interactions and environmental mechanics.>
 -->
